@@ -1,0 +1,2 @@
+libs/k8s => kubernetes/kubernetes
+libs/tests => git@github.com:Netflix/chaosmonkey.git
